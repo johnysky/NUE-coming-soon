@@ -247,7 +247,8 @@ License URI: http://themeforest.net/licenses/regular_extended
 }
 /* line 122, ../../sass/_background.scss */
 .bg-box .video-bg.second-version + .layer {
-  background: rgba(63, 70, 213, 0.9);
+  background: rgba(1, 166, 105, 1);
+  opacity: 0.9;
 }
 @media only screen and (max-width: 767px) {
   /* line 1, ../../sass/_background.scss */
